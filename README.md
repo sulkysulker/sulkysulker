@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yash
--  I am a student interested in Python,AI,ML and Data Science(and DSA).
+
 
 
 <!---
